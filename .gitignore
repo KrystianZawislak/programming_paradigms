@@ -1,0 +1,12 @@
+# compiled binaries (files without extension) in exercise folders
+ex*/*
+!ex*/*.*
+!ex*/*/
+*.exe
+*.o
+*.out
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
