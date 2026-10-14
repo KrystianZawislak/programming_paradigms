@@ -17,7 +17,7 @@ Write a program that finds all the ways of making 100 zł from the denominations
 
 | File      | Description |
 | --------- | ----------- |
-| `main.py` | Solution - reads the amount, checks every combination of the number of 10, 5 and 2 zł coins and counts the ones that sum up to it. |
+| `main.py` | Solution - reads the amount, loops over the number of 10 and 5 zł coins and counts the combinations where the rest is non-negative and even (can be filled with 2 zł coins). |
 
 ## How to run
 
