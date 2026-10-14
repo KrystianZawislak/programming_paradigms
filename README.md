@@ -31,3 +31,8 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | --- | ----- | ------ |
 | [1](ex1/) | Unstructured Christmas Trees (`goto`) | ✅ |
 | [2](ex2/) | Sum and Product (return value vs. pointer) | ✅ |
+| [3](ex3/) | Christmas Trees in Python | ✅ |
+| [4](ex4/) | Counting 'a' and 'A' | ✅ |
+| [5](ex5/) | Indexes of 'a' and 'A' | ✅ |
+| [6](ex6/) | Multiplication Table | ✅ |
+| [7](ex7/) | Guess the Number (while-else) | ✅ |
