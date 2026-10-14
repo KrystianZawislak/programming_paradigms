@@ -36,3 +36,4 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [5](ex5/) | Indexes of 'a' and 'A' | ✅ |
 | [6](ex6/) | Multiplication Table | ✅ |
 | [7](ex7/) | Guess the Number (while-else) | ✅ |
+| [8](ex8/) | Days of the Week (match) | ✅ |
