@@ -38,3 +38,4 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [7](ex7/) | Guess the Number (while-else) | ✅ |
 | [8](ex8/) | Days of the Week (match) | ✅ |
 | [9](ex9/) | Making 100 zł from Coins | ✅ |
+| [10](ex10/) | Prime Numbers (for-else) | ✅ |
