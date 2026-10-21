@@ -39,3 +39,11 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [8](ex8/) | Days of the Week (match) | ✅ |
 | [9](ex9/) | Making 100 zł from Coins | ✅ |
 | [10](ex10/) | Prime Numbers (for-else) | ✅ |
+| [11](ex11/) | Sums of Tuples | ✅ |
+| [12](ex12/) | Leap Years (list comprehension) | ✅ |
+| [13](ex13/) | Digits to Words (dictionary) | ✅ |
+| [14](ex14/) | Roman Numerals to Integers | ✅ |
+| [15](ex15/) | Contacts (dictionary with tuple keys) | ✅ |
+| [16](ex16/) | Letter Positions | ✅ |
+| [17](ex17/) | Words to Number (20-59) | ✅ |
+| [18](ex18/) | 2D Array from Lists | ✅ |
