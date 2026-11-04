@@ -47,3 +47,7 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [16](ex16/) | Letter Positions | ✅ |
 | [17](ex17/) | Words to Number (20-59) | ✅ |
 | [18](ex18/) | 2D Array from Lists | ✅ |
+| [19](ex19/) | Mean and Variance | ✅ |
+| [20](ex20/) | Custom print Function (drukuj) | ✅ |
+| [21](ex21/) | Numerical Derivative | ✅ |
+| [22](ex22/) | String Decorator (upper) | ✅ |
