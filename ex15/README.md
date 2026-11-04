@@ -31,7 +31,7 @@ Write code that prints (using a loop going over the whole dictionary) the phone 
 
 | File      | Description |
 | --------- | ----------- |
-| `main.py` | Solution - looks up Adam Nowak by the `(name, surname)` tuple key, then loops over all keys, unpacks them and prints the numbers of everyone with the surname Kowalski. |
+| `main.py` | Solution - looks up Adam Nowak by the `(name, surname)` tuple key, then loops over all keys unpacked into `name, surname` and prints the numbers of everyone with the surname Kowalski. |
 
 ## How to run
 

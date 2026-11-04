@@ -4,7 +4,6 @@ contacts = {('Jan', 'Kowalski'):"123456789",
             
 print(contacts["Adam" ,"Nowak"])
 
-for a in contacts:
-    name, surname = a
+for name, surname in contacts:
     if surname == "Kowalski":
-        print(contacts[a])
+        print(contacts[name, surname])
