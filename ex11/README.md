@@ -23,7 +23,7 @@ In the program, sum the tuples of the list:
 
 | File      | Description |
 | --------- | ----------- |
-| `main.py` | Solution - unpacks each tuple into `x, y` and builds the list of sums with a list comprehension. |
+| `main.py` | Solution - unpacks each tuple into `x, y` in a `for` loop and adds their sum to a new list with `append`. |
 
 ## How to run
 
