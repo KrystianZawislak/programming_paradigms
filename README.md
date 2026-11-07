@@ -51,3 +51,5 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [20](ex20/) | Custom print Function (drukuj) | ✅ |
 | [21](ex21/) | Numerical Derivative | ✅ |
 | [22](ex22/) | String Decorator (upper) | ✅ |
+| [23](ex23/) | Bisection Method | ✅ |
+| [24](ex24/) | Prime Numbers with a Timing Decorator | ✅ |
