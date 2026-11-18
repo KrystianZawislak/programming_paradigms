@@ -53,3 +53,7 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [22](ex22/) | String Decorator (upper) | ✅ |
 | [23](ex23/) | Bisection Method | ✅ |
 | [24](ex24/) | Prime Numbers with a Timing Decorator | ✅ |
+| [25](ex25/) | Fibonacci Generators | ✅ |
+| [26](ex26/) | Fibonacci Iterator Class | ✅ |
+| [27](ex27/) | Class-Based String Decorator (upper) | ✅ |
+| [28](ex28/) | Floating-Point range Generator (my_range) | ✅ |
