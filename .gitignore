@@ -1,7 +1,7 @@
 # compiled binaries (files without extension) in exercise folders
-ex*/*
-!ex*/*.*
-!ex*/*/
+*/ex*/*
+!*/ex*/*.*
+!*/ex*/*/
 *.exe
 *.o
 *.out
