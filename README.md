@@ -66,3 +66,36 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [26](class_exercises/ex26/) | Fibonacci Iterator Class | ✅ |
 | [27](class_exercises/ex27/) | Class-Based String Decorator (upper) | ✅ |
 | [28](class_exercises/ex28/) | Floating-Point range Generator (my_range) | ✅ |
+
+## Exam practice
+
+| #   | Title | Based on | Status |
+| --- | ----- | -------- | ------ |
+| [1](exam_practice/ex1/) | Upside-Down Trees (`goto`) | [ex1](class_exercises/ex1/) | ⬜ |
+| [2](exam_practice/ex2/) | Difference and Quotient (return value vs. pointer) | [ex2](class_exercises/ex2/) | ⬜ |
+| [3](exam_practice/ex3/) | Upside-Down Trees in Python | [ex3](class_exercises/ex3/) | ⬜ |
+| [4](exam_practice/ex4/) | Counting 'o' and 'O' | [ex4](class_exercises/ex4/) | ⬜ |
+| [5](exam_practice/ex5/) | Indexes of 'o' and 'O' | [ex5](class_exercises/ex5/) | ⬜ |
+| [6](exam_practice/ex6/) | Multiplication Table 12x12 | [ex6](class_exercises/ex6/) | ⬜ |
+| [7](exam_practice/ex7/) | Guess the Number 1-20 (while-else) | [ex7](class_exercises/ex7/) | ⬜ |
+| [8](exam_practice/ex8/) | Months of the Year (match) | [ex8](class_exercises/ex8/) | ⬜ |
+| [9](exam_practice/ex9/) | Making 50 zł from Coins | [ex9](class_exercises/ex9/) | ⬜ |
+| [10](exam_practice/ex10/) | Prime Numbers 100-200 (for-else) | [ex10](class_exercises/ex10/) | ⬜ |
+| [11](exam_practice/ex11/) | Sums of Tuples | [ex11](class_exercises/ex11/) | ⬜ |
+| [12](exam_practice/ex12/) | Leap Years (list comprehension) | [ex12](class_exercises/ex12/) | ⬜ |
+| [13](exam_practice/ex13/) | Digits to Words (dictionary) | [ex13](class_exercises/ex13/) | ⬜ |
+| [14](exam_practice/ex14/) | Roman Numerals to Integers | [ex14](class_exercises/ex14/) | ⬜ |
+| [15](exam_practice/ex15/) | Contacts (dictionary with tuple keys) | [ex15](class_exercises/ex15/) | ⬜ |
+| [16](exam_practice/ex16/) | Letter Positions | [ex16](class_exercises/ex16/) | ⬜ |
+| [17](exam_practice/ex17/) | Words to Number (60-99) | [ex17](class_exercises/ex17/) | ⬜ |
+| [18](exam_practice/ex18/) | 2D Array from Lists (cubes) | [ex18](class_exercises/ex18/) | ⬜ |
+| [19](exam_practice/ex19/) | Mean and Standard Deviation | [ex19](class_exercises/ex19/) | ⬜ |
+| [20](exam_practice/ex20/) | Custom print Function (wyswietl) | [ex20](class_exercises/ex20/) | ⬜ |
+| [21](exam_practice/ex21/) | Numerical Derivative (central difference) | [ex21](class_exercises/ex21/) | ⬜ |
+| [22](exam_practice/ex22/) | String Decorator (spaces to underscores) | [ex22](class_exercises/ex22/) | ⬜ |
+| [23](exam_practice/ex23/) | Bisection Method | [ex23](class_exercises/ex23/) | ⬜ |
+| [24](exam_practice/ex24/) | Prime Numbers with a Timing Decorator | [ex24](class_exercises/ex24/) | ⬜ |
+| [25](exam_practice/ex25/) | Lucas Sequence Generators | [ex25](class_exercises/ex25/) | ⬜ |
+| [26](exam_practice/ex26/) | Lucas Iterator Class | [ex26](class_exercises/ex26/) | ⬜ |
+| [27](exam_practice/ex27/) | Class-Based String Decorator (spaces to underscores) | [ex27](class_exercises/ex27/) | ⬜ |
+| [28](exam_practice/ex28/) | Floating-Point range Generator (float_range) | [ex28](class_exercises/ex28/) | ⬜ |
