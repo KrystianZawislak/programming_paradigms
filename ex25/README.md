@@ -1,6 +1,7 @@
 # Exercise 25 — Fibonacci Generators
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-11-18
 
 ## Task

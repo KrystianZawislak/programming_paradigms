@@ -1,6 +1,7 @@
 # Exercise 4 — Counting 'a' and 'A'
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-14
 
 ## Task

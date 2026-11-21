@@ -1,6 +1,7 @@
 # Exercise 3 — Christmas Trees in Python
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-14
 
 ## Task

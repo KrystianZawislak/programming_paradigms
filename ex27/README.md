@@ -1,6 +1,7 @@
 # Exercise 27 — Class-Based String Decorator (upper)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-11-18
 
 ## Task

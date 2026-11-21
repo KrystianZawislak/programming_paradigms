@@ -1,6 +1,7 @@
 # Exercise 10 — Prime Numbers (for-else)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-15
 
 ## Task

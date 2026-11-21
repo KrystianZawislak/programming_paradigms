@@ -1,6 +1,7 @@
 # Exercise 6 — Multiplication Table
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-14
 
 ## Task

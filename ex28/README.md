@@ -1,6 +1,7 @@
 # Exercise 28 — Floating-Point range Generator (my_range)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-11-18
 
 ## Task

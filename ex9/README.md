@@ -1,6 +1,7 @@
 # Exercise 9 — Making 100 zł from Coins
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-14
 
 ## Task

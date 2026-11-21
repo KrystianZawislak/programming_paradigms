@@ -1,6 +1,7 @@
 # Exercise 18 — 2D Array from Lists
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-21
 
 ## Task

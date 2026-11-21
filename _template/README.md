@@ -1,6 +1,7 @@
 # Exercise {{N}} — {{TITLE}}
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: {{DATE}}
 
 ## Task

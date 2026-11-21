@@ -1,6 +1,7 @@
 # Exercise 7 — Guess the Number (while-else)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-14
 
 ## Task

@@ -1,6 +1,7 @@
 # Exercise 15 — Contacts (dictionary with tuple keys)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-21
 
 ## Task

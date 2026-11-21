@@ -1,6 +1,7 @@
 # Exercise 24 — Prime Numbers with a Timing Decorator
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-11-07
 
 ## Task

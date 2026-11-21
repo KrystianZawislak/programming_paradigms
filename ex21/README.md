@@ -1,6 +1,7 @@
 # Exercise 21 — Numerical Derivative
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-11-04
 
 ## Task

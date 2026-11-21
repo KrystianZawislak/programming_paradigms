@@ -1,6 +1,7 @@
 # Exercise 2 — Sum and Product (return value vs. pointer)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-13
 
 ## Task

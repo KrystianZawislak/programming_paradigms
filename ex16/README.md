@@ -1,6 +1,7 @@
 # Exercise 16 — Letter Positions
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-21
 
 ## Task

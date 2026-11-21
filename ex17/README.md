@@ -1,6 +1,7 @@
 # Exercise 17 — Words to Number (20-59)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-21
 
 ## Task

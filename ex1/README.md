@@ -1,6 +1,7 @@
 # Exercise 1 — Unstructured Christmas Trees (`goto`)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-13
 
 ## Task

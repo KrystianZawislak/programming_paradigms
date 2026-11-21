@@ -1,6 +1,7 @@
 # Exercise 8 — Days of the Week (match)
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-10-14
 
 ## Task

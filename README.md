@@ -2,6 +2,8 @@
 
 Assignments from the *Programming Paradigms* course.
 
+Task descriptions were written by **Piotr Pawlik**, the course lecturer (the author is also given in each exercise README). The 🇵🇱 descriptions are quoted verbatim; the 🇬🇧 translations and the solutions are my own.
+
 ## Structure
 
 ```

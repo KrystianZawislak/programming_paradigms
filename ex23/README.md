@@ -1,6 +1,7 @@
 # Exercise 23 — Bisection Method
 
 > Course: Programming Paradigms
+> Task author: Piotr Pawlik
 > Date: 2026-11-06
 
 ## Task
