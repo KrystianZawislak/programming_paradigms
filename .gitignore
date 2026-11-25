@@ -1,7 +1,7 @@
 # compiled binaries (files without extension) in exercise folders
-*/ex*/*
-!*/ex*/*.*
-!*/ex*/*/
+*/*/[0-9]*_*/*
+!*/*/[0-9]*_*/*.*
+!*/*/[0-9]*_*/*/
 *.exe
 *.o
 *.out
@@ -10,3 +10,6 @@
 .DS_Store
 .vscode/
 .idea/
+
+# Python
+__pycache__/
