@@ -66,6 +66,7 @@ under **Treść zadania (PL)** and the English version under **Task description 
 | [26](class_exercises/ex26/) | Fibonacci Iterator Class | ✅ |
 | [27](class_exercises/ex27/) | Class-Based String Decorator (upper) | ✅ |
 | [28](class_exercises/ex28/) | Floating-Point range Generator (my_range) | ✅ |
+| [29](class_exercises/ex29/) | Fraction Class (operator overloading) | ✅ |
 
 ## Exam practice
 
