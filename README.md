@@ -98,6 +98,7 @@ under **Task description (EN)**.
 | #   | Title | Status |
 | --- | ----- | ------ |
 | [29](class_exercises/6_objects_members_and_inheritance/29_fraction_class/) | Fraction Class (operator overloading) | ✅ |
+| [30](class_exercises/6_objects_members_and_inheritance/30_shapes_abstract_class/) | Geometric Shapes (abstract class, inheritance) | ✅ |
 
 ## Exam practice
 
@@ -160,3 +161,4 @@ under **Task description (EN)**.
 | #   | Title | Based on | Status |
 | --- | ----- | -------- | ------ |
 | [29](exam_practice/6_objects_members_and_inheritance/29_fraction_class/) | Fraction Class (operator overloading) | [29](class_exercises/6_objects_members_and_inheritance/29_fraction_class/) | ⬜ |
+| [30](exam_practice/6_objects_members_and_inheritance/30_solids_abstract_class/) | Solids (abstract class, inheritance) | [30](class_exercises/6_objects_members_and_inheritance/30_shapes_abstract_class/) | ⬜ |
