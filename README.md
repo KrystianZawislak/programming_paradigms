@@ -100,6 +100,7 @@ under **Task description (EN)**.
 | [29](class_exercises/6_objects_members_and_inheritance/29_fraction_class/) | Fraction Class (operator overloading) | ✅ |
 | [30](class_exercises/6_objects_members_and_inheritance/30_shapes_abstract_class/) | Geometric Shapes (abstract class, inheritance) | ✅ |
 | [31](class_exercises/6_objects_members_and_inheritance/31_matrix_indexing/) | Matrix with C, Pascal and Matlab Indexing | ✅ |
+| [32](class_exercises/6_objects_members_and_inheritance/32_solids_from_shapes_mixin/) | Solids from Regular Shapes (mixin, multiple inheritance) | ✅ |
 
 ## Exam practice
 
@@ -164,3 +165,4 @@ under **Task description (EN)**.
 | [29](exam_practice/6_objects_members_and_inheritance/29_fraction_class/) | Fraction Class (operator overloading) | [29](class_exercises/6_objects_members_and_inheritance/29_fraction_class/) | ⬜ |
 | [30](exam_practice/6_objects_members_and_inheritance/30_solids_abstract_class/) | Solids (abstract class, inheritance) | [30](class_exercises/6_objects_members_and_inheritance/30_shapes_abstract_class/) | ⬜ |
 | [31](exam_practice/6_objects_members_and_inheritance/31_matrix_indexing/) | Matrix with C, Pascal and Matlab Indexing | [31](class_exercises/6_objects_members_and_inheritance/31_matrix_indexing/) | ⬜ |
+| [32](exam_practice/6_objects_members_and_inheritance/32_octahedron_icosahedron_prism_mixin/) | Octahedron, Icosahedron and Prism (mixin, multiple inheritance) | [32](class_exercises/6_objects_members_and_inheritance/32_solids_from_shapes_mixin/) | ⬜ |
